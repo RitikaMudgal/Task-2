@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Char Dham Yatras Blog</title>
+</head>
+<body>
+
+    <div class="container">
+        <img src="C:\Users\risha\Desktop\t1.jpg">
+        <h1>Char Dham Yatras Blog</h1>
+        <br>
+        <br>
+
+        <div class="dham-container1" id="yamunotri">
+            <h2>Yamunotri</h2>
+            <div class="posts" id="yamunotri-posts">
+                <img src="C:\Users\risha\Desktop\y1.jpg">
+                <p>Yamunotri Temple is situated in the western region of Garhwal Himalayas at an altitude of 3,291 metres (10,797 ft) in Uttarkashi district, Uttarakhand.[1] It's just 129 km from Uttarkashi, the main district headquarters. The temple is dedicated to Goddess Yamuna, and has a black marble idol of the goddess.[2] The Yamunotri temple is a full day's journey from Uttarakhand's main towns — Uttarkashi, Rishikesh, Haridwar or Dehradun.</p>
+            </div>
+            <form class="post-form" id="yamunotri-form">
+                <br>
+                <br>
+                <label for="yamunotri-post">Write a Post:</label>
+                <textarea id="yamunotri-post" rows="4" required></textarea>
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+
+        <div class="dham-container2" id="gangotri">
+            <h2>Gangotri</h2>
+            <div class="posts" id="gangotri-posts">
+                <img src="C:\Users\risha\Desktop\g2.jpg">
+                <p>Gangotri is one of the four sites in the Chota Char Dham pilgrimage circuit. It is also the origin of the Ganges river and seat of the goddess Ganga. The river is called Bhagirathi at the source and acquires the name Ganga (the Ganges) from Devprayag onwards where it meets the Alaknanda. The origin of the holy river is at Gaumukh, set in the Gangotri Glacier, and is a 19 km trek from Gangotri. The original Gangotri Temple was built by the Nepalese general Amar Singh Thapa. The temple is closed from Diwali day every year and is reopened on Akshaya Tritiya.[1] During this time, the idol of the goddess is kept at Mukhba village, near Harsil. Ritual duties of the temple are supervised by the Semwal family of pujaris. These pujaris hail from Mukhba village.</p>
+            </div>
+            <form class="post-form" id="gangotri-form">
+                <label for="gangotri-post">Write a Post:</label>
+                <textarea id="gangotri-post" rows="4" required></textarea>
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+
+        <div class="dham-container3" id="kedarnath">
+            <h2>Kedarnath</h2>
+            <div class="posts" id="kedarnath-posts">
+                <img src="C:\Users\risha\Desktop\k3.jpg">
+                <p>Kedarnath Temple (Sanskrit: केदारनाथ मंदिर, IAST: Kēdāranātha Mandira, lit. 'temple of the God of the field') is a Hindu temple, one of the twelve jyotirlinga of Shiva. The temple is located on the Garhwal Himalayan range[citation needed] near the Mandakini river, in the state of Uttarakhand, India. Due to extreme weather conditions, the temple is open to the general public only between the months of April (Akshaya Tritiya) and November (Kartik Purnima, the autumn full moon). During the winters, the vigraha (deity) of the temple is carried down to Ukhimath to be worshipped for the next six months. Kedarnath is seen as a homogenous form of Shiva, the 'Lord of Kedarkhand', the historical name of the region.</p>
+            </div>
+            <form class="post-form" id="kedarnath-form">
+                <label for="kedarnath-post">Write a Post:</label>
+                <textarea id="kedarnath-post" rows="4" required></textarea>
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+
+        <div class="dham-container4" id="badrinath">
+            <h2>Badrinath</h2>
+            <div class="posts" id="badrinath-posts">
+                <img src="C:\Users\risha\Desktop\b4.jpg">
+                <p>Badarinath or Badarinarayana Temple is a Hindu temple dedicated to Vishnu. It is situated in the town of Badrinath in Uttarakhand, India. The temple is also one of the 108 Divya Desams dedicated to Vishnu—holy shrines for Vaishnavas—who is worshipped as Badrinath. It is open for six months every year (between the end of April and the beginning of November), because of extreme weather conditions in the Himalayan region. The temple is located in Garhwal hill tracks in Chamoli district along the banks of Alaknanda River. It is one of the most visited pilgrimage centers of India, having recorded 2.8 million (28 lakh) visits in just 2 months in 2022.[1] It is one of the Char Dham pilgrimage sites.</p>
+            </div>
+            <form class="post-form" id="badrinath-form">
+                <label for="badrinath-post">Write a Post:</label>
+                <textarea id="badrinath-post" rows="4" required></textarea>
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>
