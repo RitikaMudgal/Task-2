@@ -1,0 +1,174 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 10px;
+    background-color:lightsteelblue;
+}
+
+.container {
+    max-width: 80%;
+    margin: 0;
+    margin-left: 120px;
+}
+.container img{
+    width: 90px;
+    height: 90px;
+    float: left;
+    margin-left: 5px;
+    padding: 20px 20px;
+    border-radius: 50%;
+}
+h1{
+    font-size:50px;
+    color:red;
+    text-align: center;
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 0;
+    padding: 0, 0;
+}
+h2 {
+    color: #333;
+}
+
+p {
+    color: #555;
+}
+
+.dham-container1 {
+    margin-top: 30px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-left: 20px;
+    background-color: darkgray;
+    border-radius: 10%;
+}
+
+.dham-container1 h2{
+    color:navy;
+    padding: 20px;
+}
+
+.dham-container1 img{
+    width: 110px;
+    height: 110px;
+    float: left;
+}
+
+.dham-container1 p{
+    color:black;
+}
+
+.dham-container2 {
+    margin-top: 30px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-left: 20px;
+    background-color:darkgray;
+    border-radius: 10%;
+}
+
+.dham-container2 h2{
+    color:navy;
+}
+
+
+.dham-container2 img{
+    width: 120px;
+    height: 120px;
+    float: left;
+}
+
+.dham-container2 p{
+    color:black;
+}
+
+.dham-container3 {
+    margin-top: 30px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-left: 20px;
+    border-radius: 10%;
+    background-color:darkgray;
+}
+
+.dham-container3 h2{
+    color:navy;
+}
+
+
+.dham-container3 img{
+    width: 110px;
+    height: 110px;
+    float: left;
+}
+
+.dham-container3 p{
+    color:black;
+}
+
+.dham-container4 {
+    margin-top: 30px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-left: 20px;
+    border-radius: 10%;
+    background-color:darkgray;
+}
+
+.dham-container4 h2{
+    color:navy;
+}
+
+
+.dham-container4 img{
+    width: 110px;
+    height: 110px;
+    float: left;
+}
+
+.dham-container4 p{
+    color:black;
+    margin-top: 5px;
+}
+
+
+.dham-container1 label{
+    display: block;
+    margin-bottom: 8px;
+}
+
+.dham-container2 label{
+    display: block;
+    margin-bottom: 8px;
+}
+
+.dham-container3 label{
+    display: block;
+    margin-bottom: 8px;
+}
+
+.dham-container4 label{
+    display: block;
+    margin-bottom: 8px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+}
+
+.post-form textarea {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
